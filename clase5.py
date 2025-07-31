@@ -32,4 +32,5 @@ if __name__ == "__main__":
         numeroaevaluar.evaluar_numero()
         sumarealizada = numeroaevaluar.sumar(2)   
         print(f"{color_amarillo_brillante}LA SUMA REALIZADA ES: {color_reset}{sumarealizada}")
+        print(f"{color_amarillo_brillante}LINEA NUEVA {color_reset}")
     main()
