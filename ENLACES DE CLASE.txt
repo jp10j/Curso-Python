@@ -1,0 +1,9 @@
+cd "C:\Users\usuario\Desktop\CARPETA DE EXCLUSION\CURSO_PYTHON_TEXTOS\Curso-Pyhon"
+rmdir /s /q .venv
+python -m venv .venv
+.venv\Scripts\activate
+
+
+
+
+
